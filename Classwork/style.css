@@ -1,0 +1,26 @@
+.container{
+    width: 600px;
+    height:px;
+    background-color: darkgray; 
+    margin: 0 auto;
+}
+.box1{
+    width: 200px;
+    height: 180px;
+    border: 10px solid red;
+    position: relative;
+    right: 100px;
+    top: 100px;
+}
+.box2{
+    width: 200px;
+    height: 180px;
+    border: 10px solid rgb(238, 255, 0);
+    position: relative;
+    
+}
+.box3{    
+    width: 200px;
+    height: 180px;
+    border: 10px solid rgb(0, 255, 64);
+}
