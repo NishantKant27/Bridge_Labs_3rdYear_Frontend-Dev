@@ -1,109 +1,89 @@
-# 🧠 Web Development Learning Journal  
+🖥️ Frontend Development Journey
 
-Welcome to my **Web Development Learning Journey!**  
-This repository documents my **daily progress, tasks, and reflections** as I explore the world of **Web Development** — from **HTML to CSS and beyond** 🚀  
+Welcome to my Frontend Development Learning Repository!
+This repository documents my daily progress and learnings as I build a strong foundation in web development — covering HTML, CSS, and Bootstrap so far.
 
----
+📘 HTML
 
-## 📅 Day 1 — Introduction to Web Development  
-**Date:** 09/10/2025  
-**Topic:** *Introduction to Web Development & HTML Basics*  
+Dear Learners,
 
-### 🧩 What I Learned  
-- 🌐 **3-Tier Architecture:** Frontend, Backend, and Database  
-- 🧱 **HTML Basics:** Headings, Paragraphs, Tables, and Images  
-- 💻 **Environment Setup:** Installed VS Code and used Live Server to preview web pages  
-- 🔍 **Concepts Covered:** Localhost, Ports, and Rendering pages via IP address  
+Today, we explored HTML Block and Inline Elements, Attributes, Headings, Paragraphs, Tables, Dropdowns, Lists, Blocks, and Layout in detail.
 
-### 🧪 Task for the Day  
-✅ Create a **timetable** using the `<table>` tag in HTML.  
-✅ Run it on Live Server to view how it renders in the browser.  
+We also learned about the <marquee> tag, HTML Forms, and various input types used for collecting user data.
 
-### 🧭 What’s Next  
-➡️ Explore **HTML Block and Inline Elements, Attributes, Headings, Paragraphs, Tables, Dropdowns, Quotations, Lists, Blocks, and Layout** in detail.  
+Tomorrow,
+we will start with CSS, where we’ll learn how to style web pages and enhance the look and feel of HTML elements.
 
----
+🎨 CSS
 
-## 📅 Day 2 — Deep Dive into HTML Elements  
-**Date:** 10/10/2025  
-**Topic:** *Advanced HTML Elements and Forms*  
+Dear Learners,
 
-### 🧩 What I Learned  
-- 🔹 **Block and Inline Elements**  
-- 🔹 **HTML Attributes**  
-- 🔹 **Headings, Paragraphs, Tables, Dropdowns, Lists, and Layouts**  
-- 🏃 **Practical Tag:** `<marquee>`  
-- 🧾 **HTML Forms:** Explored different input types for collecting user data  
+Today, we started with an Introduction to CSS, covering the syntax, types of CSS, and different methods of adding CSS to HTML.
+We explored CSS selectors, colors and backgrounds, and learned about the Box Model, CSS units, border-boxing, inline, block, inline-block, and basic layout and positioning of elements.
 
-### 🧪 Task for the Day  
-✅ Create an **HTML form** using various input types — text, email, password, radio buttons, and checkboxes.  
+🧠 Hands-on Practice:
+Design a simple webpage using internal and external CSS, applying background colors, margins, padding, and element positioning.
 
-### 🧭 What’s Next  
-➡️ Begin **CSS**, learning how to style web pages and enhance the look and feel of HTML elements.  
+Tomorrow,
+we will start with CSS Flexbox and Grid Layouts to design responsive and structured web page layouts effectively.
 
----
+Dear Learners,
 
-## 📅 Day 3 — Introduction to CSS  
-**Date:** 13/10/2025  
-**Topic:** *Introduction to CSS & Styling Basics*  
+Today, we revised Flexbox and Grid in CSS and explored the CSS Box Model, including Borders, Padding, Height/Width, Gradients, Shadows, Selectors, and Transformations.
+We also practiced applying gradients to enhance UI design.
 
-### 🧩 What I Learned  
-- 🎨 **CSS Basics:** Syntax, Structure, and Application Methods (Inline, Internal, External)  
-- 🧭 **Selectors & Colors:** Styling elements using selectors and color properties  
-- 📦 **Box Model:** Margin, padding, border, and content relationships  
-- 🧱 **Display & Layout:** Inline, block, and inline-block elements  
-- ⚙️ **Positioning:** Relative, absolute, and fixed positioning concepts  
+🧠 Task for Today:
+Design a simple Calculator Layout using CSS Grid to apply the concepts learned in class.
 
-### 🧪 Task for the Day  
-✅ Design a **simple webpage** using internal and external CSS, applying background colors, margins, padding, and element positioning.  
+Tomorrow,
+we will start with CSS Pseudo-classes, Tooltips, and Animations to create more interactive and visually appealing web pages.
 
-### 🧭 What’s Next  
-➡️ Learn about **Flexbox** and **Grid** for advanced layouts and responsive designs.  
+Dear Learners,
 
----
+Today, we revised CSS Pseudo-classes, Tooltips, Animations, Transitions, Transform Properties, Images, Selectors, Buttons, User Interface, and Box Sizing.
 
-## 📅 Day 4 — Flexbox, Grid & Advanced CSS  
-**Date:** 30/10/2025  
-**Topic:** *CSS Flexbox, Grid & Visual Enhancements*  
+🧠 Task for Today:
+Design an animation that moves an element diagonally using transition and transform properties to better understand CSS animation effects.
 
-### 🧩 What I Learned  
-- 🧱 **Flexbox & Grid:** Efficient layout systems for structured design  
-- 📦 **Box Model (Advanced):** Borders, padding, height, and width adjustments  
-- 🌈 **Visual Styling:** Gradients, shadows, and transformations for improved UI aesthetics  
-- 🎯 **Selectors:** Combinators and pseudo-classes for targeted styling  
+Tomorrow,
+we will start with Responsive CSS, covering Filters, Responsive Web Design principles, and CSS Media Queries to make web pages adaptable to different screen sizes.
 
-### 🧪 Task for the Day  
-✅ Design a **simple Calculator Layout** using CSS Grid with gradients and box shadows to enhance the UI.  
+Dear Learners,
 
-### 🧭 What’s Next  
-➡️ Explore **Responsive Design**, including **CSS Media Queries** and **Transitions/Animations**.  
+Today, we revised Responsive CSS, covering Filters, Responsive Web Design principles, and CSS Media Queries to make web pages adaptable to various screen sizes.
 
----
+🧠 Task for Today:
+Design a responsive card UI with a title, image, and text, including a hover transition effect to enhance interactivity and better understand responsiveness.
 
-## 📅 Day 5 — CSS Pseudo-classes, Animations & Transitions  
-**Date:** 31/10/2025  
-**Topic:** *CSS Pseudo-classes, Tooltips, Animations, Transitions, Transform Properties & Box Sizing*  
+Tomorrow,
+we will start with Bootstrap, where we’ll learn to use prebuilt components and responsive utilities to design modern web layouts efficiently.
 
-### 🧩 What I Learned  
-- 🎨 **Pseudo-classes:** Styled elements dynamically on hover, focus, and active states  
-- 💬 **Tooltips:** Created informative hover-based tooltips using position and visibility  
-- ⚙️ **Animations & Transitions:** Animated movement and visual effects  
-- 🔄 **Transform Properties:** Practiced with `translate()`, `rotate()`, and `scale()`  
-- 🧩 **Box Sizing & UI Styling:** Controlled layout consistency using `box-sizing: border-box`  
-- 🧱 **Selectors & Buttons:** Enhanced interaction and aesthetics with advanced CSS selectors  
+🧩 Bootstrap
 
-### 🧪 Task for the Day  
-✅ Design an **animation that moves an element diagonally** using transition and transform properties to understand CSS animation effects.  
+Dear Learners,
 
-### 🧭 What’s Next  
-➡️ Start **Responsive CSS**, covering Filters, Responsive Web Design Principles, and **Media Queries** to make web pages adaptable to all screen sizes.  
+Today, we started with Bootstrap, learning how to use prebuilt components and responsive utilities to design modern web layouts efficiently.
+We covered Introduction to Bootstrap, Bootstrap Basics, Bootstrap Grids, and Bootstrap CSS.
 
----
+🧠 Task for Today:
+Design a responsive portfolio webpage using Bootstrap to apply the concepts learned.
 
-## 🏁 Summary  
-This repository documents my continuous journey of learning **Web Development** — building strong foundations in **HTML & CSS**.  
-Up next: **Responsive Design, JavaScript, and modern web frameworks** 🌍  
+Tomorrow,
+we will revise CSS and explore more Bootstrap components such as Carousel, Progress Bar, and more to enhance your web design skills.
 
+Dear Learners,
+
+Today, we revised CSS and explored additional Bootstrap components such as Carousel, Progress Bar, and more to enhance your web design skills and understanding of responsive layouts.
+
+🧠 Task for Today:
+Design a responsive portfolio webpage using Bootstrap** to apply the concepts learned in class.
+
+Tomorrow,
+we will start with an Introduction to JavaScript, where you’ll learn how to make your web pages interactive and dynamic.
+
+🚀 Next Step
+
+Up next: JavaScript Fundamentals — adding interactivity and logic to our web designs!
 ---
 
 ### 💻 Author  
