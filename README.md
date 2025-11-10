@@ -1,9 +1,9 @@
-🖥️ Frontend Development Journey
+🖥️ #Frontend Development Journey
 
 Welcome to my Frontend Development Learning Repository!
 This repository documents my daily progress and learnings as I build a strong foundation in Web Development — covering HTML, CSS, and Bootstrap so far.
 
-📘 HTML
+📘 #HTML
 
 We explored the following concepts in HTML:
 
@@ -15,7 +15,7 @@ Tables, Dropdowns, Lists, Blocks, and Layout
 
 <marquee> tag, HTML Forms, and various Input Types used for collecting user data
 
-🎨 CSS
+🎨 #CSS
 
 We started with an Introduction to CSS, covering:
 
@@ -45,7 +45,7 @@ CSS Pseudo-classes, Tooltips, Animations, Transitions, and Transform properties
 
 Image Styling, Selectors, Buttons, and UI Enhancements
 
-Box Sizing and overall user interface improvement
+Box Sizing and overall User Interface improvement
 
 🧠 Task for Today:
 Design an animation that moves an element diagonally using transition and transform properties to understand animation effects.
@@ -59,7 +59,7 @@ CSS Media Queries for adaptive layouts across different devices
 🧠 Task for Today:
 Design a Responsive Card UI containing a title, image, and text — including a hover transition effect to improve interactivity.
 
-🧩 Bootstrap
+🧩 #Bootstrap
 
 We began our journey with Bootstrap, covering:
 
@@ -67,32 +67,34 @@ Introduction to Bootstrap
 
 Bootstrap Basics and Grid System
 
-Built-in CSS classes and responsive utilities
+Built-in CSS classes and Responsive Utilities
 
 🧠 Task for Today:
 Design a Responsive Portfolio Webpage using Bootstrap to apply the learned concepts.
 
-We revised CSS and explored additional Bootstrap Components including:
+We revised CSS and explored additional Bootstrap Components, including:
 
 Carousel
 
 Progress Bar
 
-Other UI components for dynamic, responsive web designs
+Other UI Components for dynamic, responsive web designs
 
 🧠 Task for Today:
 Create a Responsive Portfolio Webpage using Bootstrap and apply all learned concepts effectively.
 
 🚀 Next Step
 
-Up Next:
 ➡️ JavaScript Fundamentals — Adding interactivity, logic, and dynamic functionality to web designs!
 
 💻 Author
 
 👤 Name: Nishant Kant
+
 📅 Started Journey: October 2025
+
 🌐 Focus Area: Frontend Web Development
+
 📚 Skills Covered: HTML • CSS • Bootstrap
 
 🌟 Summary
