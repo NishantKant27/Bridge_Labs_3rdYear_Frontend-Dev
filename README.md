@@ -1,9 +1,9 @@
-🖥️ #Frontend Development Journey
+🖥️ Frontend Development Journey
 
 Welcome to my Frontend Development Learning Repository!
 This repository documents my daily progress and learnings as I build a strong foundation in Web Development — covering HTML, CSS, and Bootstrap so far.
 
-📘 #HTML
+📘 HTML
 
 We explored the following concepts in HTML:
 
@@ -15,7 +15,7 @@ Tables, Dropdowns, Lists, Blocks, and Layout
 
 <marquee> tag, HTML Forms, and various Input Types used for collecting user data
 
-🎨 #CSS
+🎨 CSS
 
 We started with an Introduction to CSS, covering:
 
@@ -59,7 +59,7 @@ CSS Media Queries for adaptive layouts across different devices
 🧠 Task for Today:
 Design a Responsive Card UI containing a title, image, and text — including a hover transition effect to improve interactivity.
 
-🧩 #Bootstrap
+🧩 Bootstrap
 
 We began our journey with Bootstrap, covering:
 
